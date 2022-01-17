@@ -1,0 +1,3 @@
+/*
+State management in complex apps has not been easy before redux came to solve the problem.. Redux solves the problem but it added some complexity to the picture. Now with react context, we can solve the same problem using the concept of Providers and Consumers from context...
+*/
